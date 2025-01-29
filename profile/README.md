@@ -5,11 +5,10 @@ You have found our GitHub profile 🌈
 🦣[Follow us on Mastodon](https://ijug.social/@jugpaderborn) or check our 🔖[website](https://jug-pb.gitlab.io/) for latest news.
 We also have a 📰[good old RSS feed](https://jug-pb.gitlab.io/feed.xml).
 
-### Next Event(s)
+# Recent Posts
 
-* [17 January 2024, Automated Refactorings](https://www.eventbrite.de/e/automated-refactorings-tickets-782499245307)
-* [21 February 2024, Alles neu macht Hibernate 6](https://www.eventbrite.de/e/alles-neu-macht-hibernate-6-tickets-799004813907)
-* [13 March 2024, Es muss nicht immer Microservice sein: Architekturen im Vergleich](https://www.eventbrite.com/e/es-muss-nicht-immer-microservice-sein-architekturen-im-vergleich-tickets-797742548437)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
