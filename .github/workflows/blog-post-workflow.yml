@@ -20,5 +20,5 @@ jobs:
       - name: copy file
         uses: canastro/copy-file-action@master
         with:
-          source: "readme.md"
-          target: "profile/readme.md"
+          source: "README.md"
+          target: "profile/README.md"
