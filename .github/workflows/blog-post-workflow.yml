@@ -17,3 +17,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://jug-pb.gitlab.io/feed.xml"
+      - name: copy file
+        uses: canastro/copy-file-action@master
+        with:
+          source: "readme.me"
+          target: "profile/readme.md"
